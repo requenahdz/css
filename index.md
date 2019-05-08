@@ -2,9 +2,11 @@
 
 ### Practica 1
 Lee con mucha atención el siguiente artículo y resuelve los 2 juegos de css.
-##Articulo:
+
+## Articulo:
 https://filisantillan.com/el-gran-poder-de-css3-flexbox/ <br>
-##Juegos:
+
+## Juegos:
 https://flexboxfroggy.com/ <br>
 http://www.flexboxdefense.com/<br>
 
