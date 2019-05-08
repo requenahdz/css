@@ -1,7 +1,8 @@
 ## Practicas de CSS
 ### Practica 1
-Conoce un poco lo que es la estructura básica de HTML
-https://rolandocaldas.com/php/html5-estructura-basica
+Lee un poco para conocer cuál es la estructura básica de HTML <br>
+https://rolandocaldas.com/php/html5-estructura-basica <br>
+https://www.w3schools.com/html/html5_intro.asp <br>
 
 ### Practica 2
 Lee con mucha atención el siguiente artículo y resuelve los 2 juegos de css.
